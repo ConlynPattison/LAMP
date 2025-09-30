@@ -15,7 +15,8 @@
         <ul class="top-nav">
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php" class="active">About Us</a></li>
-            <li><a href="">Properties</a></li>
+            <li><a href="properties.php">Properties</a></li>
+            <li><a href="contacts.php">Contacts</a></li>
             <li class="right"><a>Find A House</a></li>
         </ul>
     </section>
