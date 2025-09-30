@@ -11,7 +11,7 @@ echo <<<HTML
         <div class="company"><a>Bay Estates</a></div>
         <ul class="top-nav">
             <li><a href="" class="active">Home</a></li>
-            <li><a href="">About Us</a></li>
+            <li><a href="about.php">About Us</a></li>
             <li><a href="">Properties</a></li>
             <li class="right"><a>Find A House</a></li>
         </ul>
