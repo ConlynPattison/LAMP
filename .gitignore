@@ -1,0 +1,31 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+error_log
+logs/
+tmp/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Composer dependencies
+vendor/
+
+# OS/environment
+.env
+.env.* 
+
+# Apache / PHP runtime
+.htaccess.swp
+.phpunit.result.cache
+coverage/
+
+# Database credentials or config
+includes/db.php
+config.php
