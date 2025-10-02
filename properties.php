@@ -16,6 +16,7 @@
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About Us</a></li>
             <li><a href="properties.php" class="active">Properties</a></li>
+            <li><a href="news.php">News</a></li>
             <li><a href="contacts.php">Contacts</a></li>
             <li class="right"><a>Find A House</a></li>
         </ul>
