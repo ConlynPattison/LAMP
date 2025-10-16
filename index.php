@@ -15,6 +15,7 @@ echo <<<HTML
             <li><a href="properties.php">Properties</a></li>
             <li><a href="news.php">News</a></li>
             <li><a href="contacts.php">Contacts</a></li>
+            <li><a href="/secure/index.php">Admin</a></li>
             <li class="right"><a>Find A House</a></li>
         </ul>
     </section>

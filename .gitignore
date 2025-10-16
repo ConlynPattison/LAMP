@@ -29,3 +29,4 @@ coverage/
 # Database credentials or config
 includes/db.php
 config.php
+password.txt
